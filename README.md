@@ -1,6 +1,6 @@
 # Dating App Reviews
 
-![alt text](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)?raw=true)
+![alt text](https://github.com/emicervantes/dating_app_reviews/blob/main/images/tin_hin_bum.png?raw=true)
 
 Datasets:
 
