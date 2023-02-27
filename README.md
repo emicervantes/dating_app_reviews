@@ -1,4 +1,4 @@
-# Dating App Reviews
+# Dating App EDA
 
 ![alt text](https://github.com/emicervantes/dating_app_reviews/blob/main/images/tin_hin_bum.png?raw=true)
 
